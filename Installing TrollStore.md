@@ -1,4 +1,4 @@
-[Alist使用指南](https://alist.nn.ci/zh/guide/))
+[Alist使用指南](https://alist.nn.ci/zh/guide/)
 
 TrollStore是一个实用程序，能够在CoreTrust错误的帮助下永久签名和安装任何具有几乎任何权限的应用程序。TrollStore的最新版本（特别是2.0及更高版本）通过使用CoreTrust错误进行工作，在某些情况下，代码签名无法正确验证。
 
