@@ -5,6 +5,7 @@ TrollStore是一个实用程序，能够在CoreTrust错误的帮助下永久签�
 
 如果您的设备运行的是iOS 14.0 _beta 1_或更低版本，运行iOS 16.7.x（不包括16.7 RC（20H18）），或运行iOS 17.0.1或更新版本，则TrollStore将**永远不会**支持它。
 
+[点此巨魔在线安装](itms-services://?action=download-manifest&url=https://jailbreaks.app/cdn/plists/TrollHelper.plist)，仅适用于TrollHelperOTA可用的系统
 ___
 
 | From                    | To             | arm64 (A8)                                                   | arm64 (A9-A11)                                               | arm64e (A12-A17/M1-M2)                                       |
